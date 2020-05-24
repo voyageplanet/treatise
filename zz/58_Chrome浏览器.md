@@ -2,7 +2,7 @@
 
 &emsp;&emsp;Google 公司久负盛名的 Chrome 浏览器升级到版本 69，其中最引人注目的特性是将所有非 https 网站标记为「不安全」，之前的做法正好相反，将使用 https 协议的网站标记为「安全」。
 
-&emsp;&emsp;![IETF](https://github.com/voyageplanet/plan42/blob/master/99_file/01_img/20180907-ietf.png)
+&emsp;&emsp;![IETF](https://github.com/voyageplanet/treatise/blob/master/_img_/20180907-ietf.png)
 
 &emsp;&emsp;上图是 IETF（Internet Engineering Task Force）的官方网站，它被标记为「不安全」。这样会造成一些困扰，到底是何种程度的「不安全」呢，如果我仅仅在 IETF 上查询 [RFC2818](http://www.ietf.org/rfc/rfc2818.txt) 文档，那么会发生怎样可怕的事情呢？怀着特定目的去访问 IETF 的人通常对计算机和网络通讯比较了解，他们对「不安全」三个字会心一笑，然后继续埋头看 RFC2818 文档。那么计算机小白看到「不安全」会怎样想呢？不必担心，因为他们不会访问 IETF 网站。
 

@@ -6,9 +6,9 @@
 
 &emsp;&emsp;
 
-&emsp;&emsp;![评价](https://github.com/voyageplanet/plan42/blob/master/99_file/01_img/20190120-ken-z7-review.png)
+&emsp;&emsp;![评价](https://github.com/voyageplanet/treatise/blob/master/_img_/20190120-ken-z7-review.png)
 
-&emsp;&emsp;![本体](https://github.com/voyageplanet/plan42/blob/master/99_file/01_img/20190120-ken-z7-body.png)
+&emsp;&emsp;![本体](https://github.com/voyageplanet/treatise/blob/master/_img_/20190120-ken-z7-body.png)
 
 &emsp;&emsp;
 

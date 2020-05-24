@@ -30,7 +30,7 @@
     I hope some day you'll join us
     And the world will live as one
 
-&emsp;&emsp;![John_Lennon_Imagine](https://github.com/voyageplanet/plan42/blob/master/99_file/01_img/20180101-imagine.JPG)
+&emsp;&emsp;![John_Lennon_Imagine](https://github.com/voyageplanet/treatise/blob/master/_img_/20180101-imagine.JPG)
 
 &emsp;&emsp;上图存在若干拼写错误，来自女儿的一件冬装。我承认就是为了放这张图片而敷衍出一篇小文。
 

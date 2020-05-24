@@ -12,7 +12,7 @@
 
 &emsp;&emsp;截止目前，我的 Linux 虚拟机在 Google Cloud 上已持续运行 128 天，得出六个非梅森素数，为科学计算贡献绵薄之力。曾经利用笔记本电脑里的虚拟机计算梅森素数，虽然分配了四个计算单元，可是它的速度不理想，大约只有 Xeon 的三分之一。计算无法持续运行也是个问题，它最终演变成一项令人焦虑的任务。我决定将它与 Google Cloud 上的虚拟机合并，但看上去没有成功。寻找梅森素数任重而道远，保持耐心非常重要。
 
-&emsp;&emsp;![GIMPS](https://github.com/voyageplanet/plan42/blob/master/99_file/01_img/20190319-mprime-log.png)
+&emsp;&emsp;![GIMPS](https://github.com/voyageplanet/treatise/blob/master/_img_/20190319-mprime-log.png)
 
 &emsp;&emsp;
 
